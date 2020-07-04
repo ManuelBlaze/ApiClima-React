@@ -1,3 +1,6 @@
+<h1>Api clima React</h1>
+Proyecto de Practica-aprendizaje React, consumiendo la api de https://openweathermap.org/
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
