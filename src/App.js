@@ -46,7 +46,8 @@ function App() {
     }
 
     consultarAPI();
-  }, [ciudad, consultar, pais]);
+    // eslint-disable-next-line
+  }, [consultar]);
 
 
   let componente;
